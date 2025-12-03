@@ -30,7 +30,7 @@ Tudo projetado para transmitir profissionalismo, delicadeza e confiança.
 
 ## 🔗 Link do Repositório
 
-[GitHub - Bela-Cilios](https://github.com/Gleicekeli12/bela-cilios)
+[GitHub - Bela Cílios](https://github.com/Gleicekeli12/bela-cilios)
 
 ## 📂 Estrutura do Projeto
 
